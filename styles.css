@@ -1,0 +1,17 @@
+.login-form {
+  opacity: 0.6;
+}
+body{
+  height: 100vh;
+}
+#clock{
+  display: flex;
+  justify-content: end;
+}
+.form{
+  margin-bottom: 30px;
+}
+window{
+  height: 1000px; 
+  width: 1000px;
+}
